@@ -983,8 +983,8 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   width: 100%;
   height: auto;
   display: block;
-  max-height: 420px;
-  object-fit: cover;
+  max-height: none;
+  object-fit: contain;
   object-position: center top;
 }
 
